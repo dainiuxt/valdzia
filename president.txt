@@ -831,9 +831,9 @@ var albumvideos = Array();
 				<tr>
 					<td style="background-color:#e6e6e6;vertical-align:bottom;width:200px;">
 					<div id="statistics"><div style="background-image: url('/application/site/themes/default/img/menuSep2.gif'); background-position:center bottom;background-repeat:repeat-x;">LankytojÅ³ statistika</div>
-							<p>IÅ¡ viso apsilankÄ:&nbsp;67108482</p>
-							<p>Å iandien apsilankÄ:&nbsp;24824</p>
-							<p>Dabar narÅ¡o:&nbsp;969</p>
+							<p>IÅ¡ viso apsilankÄ:&nbsp;67109963</p>
+							<p>Å iandien apsilankÄ:&nbsp;26305</p>
+							<p>Dabar narÅ¡o:&nbsp;994</p>
 							</div>
 					</td>
 				</tr>
