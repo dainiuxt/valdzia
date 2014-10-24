@@ -1,0 +1,863 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="lt" lang="lt">
+<head>
+<!--[if gt IE 6]>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]-->
+<title>Lietuvos Respublikos PrezidentÄ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="Keywords" content=""/>
+<meta name="Description" content=""/>
+<meta name="GENERATOR" content="EasyWeb3" />
+<meta name="AUTHOR" content="Fresh Media" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="SHORTCUT ICON" href="/application/site/themes/default/img/favicon.ico"/>
+<link href="/application/site/themes/default/css/base.css?v12" type="text/css" rel="stylesheet" />
+<link href="/application/site/themes/default/css/general.css?v12" type="text/css" rel="stylesheet" />
+<link href="/application/site/themes/default/libs/maximage/css/maximage.css?v12" type="text/css" rel="stylesheet" />
+<link href="/application/site/themes/default/libs/fancybox/css/jquery.fancybox-1.3.0.css?v12" type="text/css" rel="stylesheet" />
+<link href="/application/site/themes/default/css/ds_mod_contacts_dbs/struct.css?v12" type="text/css" rel="stylesheet" />
+<link href="/application/site/themes/default/css/ds_mod_contacts_dbs/printerlist.css?v12" type="text/css" rel="stylesheet" />
+<link href="/application/site/themes/default/css/gallery/player.css?v12" type="text/css" rel="stylesheet" />
+<link href="/application/site/themes/default/css/ytplayer/ytplay.css?v12" type="text/css" rel="stylesheet" />
+<script language="JavaScript" type="text/javascript" src="/application/site/themes/default/js/script.js?v12"></script>
+<script type="text/javascript">
+
+function onLoadFunctions(){
+set_pos_new();
+scanImg();
+initFancyBoxLinks({download_photo:'AtsisiÅ³sti'});
+albumvideos.push({id: '56805', fid:'44361', sid:'175615', type:'foto', dsc:'PrezidentÄ dalyvauja Europos VadovÅ³ Tarybos susitikime Briuselyje (LR Prezidento kanceliarijos nuotraukos/ R. DaÄkus)'});
+albumvideos.push({id: '56801', fid:'44360', sid:'175612', type:'foto', dsc:'PrezidentÄ dalyvauja Europos VadovÅ³ Tarybos susitikime Briuselyje (LR Prezidento kanceliarijos nuotraukos/ R. DaÄkus)'});
+initYtplay();
+
+}
+window.onload=onLoadFunctions;
+var root_url = "http://president.lt/";
+var maximage_loading_txt="SiunÄiama...";
+var maximage_root="http://president.lt/application/site/themes/default/libs/maximage/";
+var maximage_link="http://president.lt/images/";
+var page_tit = "Kontaktai";
+var print_title="Lietuvos Respublikos PrezidentÄ";
+var gimg_dir="/application/site/themes/default/img/";
+var image_dir="images/";
+var albumvideos = Array();
+</script>
+<script language="JavaScript" type="text/javascript" src="/application/site/themes/default/libs/maximage/maximage.js?v12"></script>
+<script language="JavaScript" type="text/javascript" src="/application/site/themes/default/libs/jquery/jquery-1.4.2.js?v12"></script>
+<script language="JavaScript" type="text/javascript" src="/application/site/themes/default/libs/fancybox/jquery.fancybox-1.3.0.js?v12"></script>
+<script language="JavaScript" type="text/javascript" src="/application/site/themes/default/js/events/eventsBlock.js?v12"></script>
+<script language="JavaScript" type="text/javascript" src="/application/site/themes/default/js/ajax.js?v12"></script>
+<script language="JavaScript" type="text/javascript" src="/application/site/themes/default/js/gallery/FlashTag.js?v12"></script>
+<script language="JavaScript" type="text/javascript" src="/application/site/themes/default/js/gallery/gallery_block.js?v12"></script>
+<script language="JavaScript" type="text/javascript" src="/application/site/themes/default/js/ytplayer/ytplay.js?v12"></script>
+</head>
+<body style="height:100%;"><div id="pageArea">
+	<div id="headerPrez" class="head_lt"> 
+		<div class="icons"><a href="http://president.lt/lt"><img src="/application/site/themes/default/img/home.gif" width="24" height="24" border="0" alt="" /></a><a href="/lt/medis.html"><img src="/application/site/themes/default/img/site.gif" width="24" height="24" border="0" alt="" /></a><img src="/application/site/themes/default/img/s.gif" width="15" height="1" border="0" alt="" />
+<a href="http://president.lt/en"><img src="/application/site/themes/default/img/en.gif" width="24" height="24" border="0" alt="English"/></a><a href="http://president.lt/fr"><img src="/application/site/themes/default/img/fr.gif" width="24" height="24" border="0" alt="Francais"/></a><a href="http://president.lt/ru"><img src="/application/site/themes/default/img/ru.gif" width="24" height="24" border="0" alt="Ð ÑÑÑÐºÐ¸Ð¹"/></a><img src="/application/site/themes/default/img/s.gif" width="15" height="1" border="0" alt="" /><a href="?theme=accessibility;"><img src="/application/site/themes/default/img/accessibility_lt.gif" width="175" height="24" border="0" alt="" /></a></div>
+		<a id="crest_link" href="http://president.lt/lt"><img src="/application/site/themes/default/img/s.gif" width="15" height="1" border="0" alt="" /></a>
+		<div class="contactsPr">S. Daukanto a. 3, LT 01122 Vilnius<br/>
+			tel. 8 706 64 154 , faks. 8 706 64 145</div>
+	</div>
+	
+	<!-- body area begin -->
+		<div id="content">
+			<table cellspacing="0" cellpadding="0" border="0" class="content" >
+				<tr>
+					<td id="leftSide" rowspan="2">
+					<!-- left begin -->
+				
+						<div id="menuLeft">
+												<ul>
+													<li class="li1"><a href="/lt/prezidento_institucija/prezidente_dalia_grybauskaite/apdovanojimai_926.html" >PREZIDENTO INSTITUCIJA</a>
+																					
+							<ul class="menu_padding_left">
+															<li class="li2"><a href="/lt/prezidento_institucija/prezidente_dalia_grybauskaite/apdovanojimai_926.html"  >PrezidentÄ Dalia GrybauskaitÄ</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_institucija/teises_aktai_467.html"  >TeisÄs aktai</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_institucija/prezidento_funkcijos_316.html"  >Prezidento funkcijos</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_institucija/istorija.html"  >Istorija</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_institucija/prezidento_kanceliarija_760.html"  >Prezidento kanceliarija</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_institucija/prezidento_rumai_468.html"  >Prezidento rÅ«mai</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_institucija/renginiai_prezidento_rumuose.html"  >Renginiai Prezidento rÅ«muose</a>
+																</li>
+														</ul>
+														</li>
+													<li class="li1"><a href="/lt/prezidento_veikla/dekretai_387.html" >PREZIDENTÄS VEIKLA</a>
+																					
+							<ul class="menu_padding_left">
+															<li class="li2"><a href="/lt/prezidento_veikla/dekretai_387.html"  >Dekretai</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/metinis_pranesimas/2014_m..html"  >Metiniai praneÅ¡imai</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/kalbos.html"  >Kalbos</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/sveikinimai.html"  >Sveikinimai</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/uzuojautos.html"  >UÅ¾uojautos</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/citatos.html"  >Citatos</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/vizitai.html"  >Vizitai</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/respublikos_prezidentes_skiriami_pareigunai.html"  >Respublikos PrezidentÄs skiriami pareigÅ«nai</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/apdovanojimai.html"  >Apdovanojimai</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/pilietybe.html"  >PilietybÄ</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/malone.html"  >MalonÄ</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/prezidente_ziniasklaidoje/prezidente_ziniasklaidoje_385.html"  >PrezidentÄ Å¾iniasklaidoje</a>
+																</li>
+														</ul>
+														</li>
+													<li class="li1"><a href="/lt/spaudos_centras_392/pranesimai_spaudai.html" >SPAUDOS CENTRAS</a>
+																					
+							<ul class="menu_padding_left">
+															<li class="li2"><a href="/lt/spaudos_centras_392/pranesimai_spaudai.html"  >PraneÅ¡imai spaudai</a>
+																</li>
+															<li class="li2"><a href="/lt/spaudos_centras_392/foto_galerija.html"  >NuotraukÅ³ galerija</a>
+																</li>
+															<li class="li2"><a href="/lt/prezidento_veikla/spaudos_centras/yt_video_galerija.html"  >Vaizdo ir garso Ä¯raÅ¡Å³ galerija</a>
+																</li>
+															<li class="li2"><a href="/lt/spaudos_centras_392/prasymas_akreditacijai.html"  >PraÅ¡ymas akreditacijai</a>
+																</li>
+															<li class="li2"><a href="/lt/spaudos_centras_392/informacija_ziniasklaidai.html"  >Informacija Å¾iniasklaidai</a>
+																</li>
+															<li class="li2"><a href="/lt/spaudos_centras_392/rss.html"  >RSS prenumerata</a>
+																</li>
+															<li class="li2"><a href="/lt/spaudos_centras_392/el_pren.html"  >Prenumerata el. paÅ¡tu</a>
+																</li>
+														</ul>
+														</li>
+													<li class="li1"><a href="/lt/nuorodos.html" >NUORODOS</a>
+														</li>
+												</ul>
+												</div>
+						<div class="blockSep">&nbsp;</div>
+						<div class="block_notit"><div class="rb_cont">
+
+
+<hr/>
+</div>
+</div><div class="block"><h3 class="img"><a style="display:block;" href="/lt/ekskursijos_uzsakymas.html">Ekskursija po rÅ«mus</a></h3></div><div class="block"><h3 class="img">PaieÅ¡ka</h3>
+<div class="rb_cont"><form action="/lt/paieska/search.html" method="post" name="search_form">
+<table cellspacing="0" cellpadding="0" border="0" class="search_block"><tr><td><input type="text" name="q[text]" class="inpB subscribe" size="10" value="Ä®raÅ¡ykite ieÅ¡komÄ Å¾odÄ¯" onfocus="((this.value == 'Ä®raÅ¡ykite ieÅ¡komÄ Å¾odÄ¯') ? this.value='' : '');"/></td><td><img src="/application/site/themes/default/img/search.gif" width="18" height="18" border="0" alt="IeÅ¡koti" class="submit" onclick="search_form.submit();"/></td></tr></table>
+</form>
+</div>
+</div><div class="block_notit"><div class="rb_cont">
+
+
+<hr/>
+</div>
+</div>						
+					<!-- left end -->
+					
+					</td><!--center begin -->
+					<td  id="centerSide" rowspan="2">
+					<div class="mainText">
+	<table cellspacing="0" cellpadding="0" border="0" id="nav_url">
+		<tr>
+			<td width="100%"><a href="/lt/dbs_kontaktai.html">Kontaktai</a>			</td>
+			<td style="white-space: nowrap;padding-left: 10px;"><a onclick="this.blur();" href="javascript:print_v();">Spausdinti&nbsp;<img src="/application/site/themes/default/img/printer.gif" border="0" width="16" height="16" alt="Spausdinti"/></a>
+			</td>
+		</tr>
+	</table>
+	<div class="blockCenter">
+		<h1 class="img">Kontaktai</h1>
+	</div>
+	<div id="inner-container">
+<div>&nbsp;</div>
+<div><h5>LIETUVOS RESPUBLIKOS PREZIDENTÄ</h5></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+<p>S. Daukanto a. 3, LT 01122 Vilnius</p><p>Tel. + 370 5  266 4154</p><p>Faks. + 370 5  266 4145</p></td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Dalia  GrybauskaitÄ</p><p class="vvv">Lietuvos Respublikos PrezidentÄ</p></td><td valign="top" align="left" width="50%">
+</td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Ieva BaubinaitÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 211</p><p>Telefonas + 370 706 64154</p><p>El. paÅ¡tas <a href="mailto:ieva.baubinaite@president.lt">ieva.baubinaite@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Å arÅ«nÄ Å ableviÄienÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 211</p><p>Telefonas + 370 706 64154</p><p>Faksas  + 370 706 64002</p><p>El. paÅ¡tas <a href="mailto:sarune.sableviciene@president.lt">sarune.sableviciene@president.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>EKONOMINÄS IR SOCIALINÄS POLITIKOS GRUPÄ</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">GiedrÄ  KaminskaitÄ-Salters</p><p class="vvv"><i>grupÄs vadovÄ</i><br>Respublikos PrezidentÄs vyriausioji patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 343</p><p>Telefonas +370 706 64146</p><p>El. paÅ¡tas <a href="mailto:giedre.kaminskaite-salters@president.lt">giedre.kaminskaite-salters@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Lina AdakauskienÄ</p><p class="vvv"><i>grupÄs vadovo pavaduotoja</i><br>Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 336</p><p>Telefonas +370 706 64007</p><p>El. paÅ¡tas <a href="mailto:lina.adakauskiene@president.lt">lina.adakauskiene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">RamunÄ GuobaitÄ-KirslienÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 339</p><p>Telefonas +370 706 64006</p><p>El. paÅ¡tas <a href="mailto:ramune.guobaite@president.lt">ramune.guobaite@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Edita KriÅ¡ÄiÅ«nienÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 341</p><p>Telefonas +370 706 64148</p><p>El. paÅ¡tas <a href="mailto:edita.krisciuniene@president.lt">edita.krisciuniene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Aira MeÄÄjienÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 339</p><p>Telefonas +370 706 64135</p><p>El. paÅ¡tas <a href="mailto:aira.mecejiene@president.lt">aira.mecejiene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Giedrius  Kadziauskas</p><p class="vvv">Respublikos PrezidentÄs patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 330</p><p>Telefonas +370 706 64030</p><p>El. paÅ¡tas <a href="mailto:giedrius.kadziauskas@president.lt">giedrius.kadziauskas@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Dalia  ZabeleviÄienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 342</p><p>Telefonas +370 706 64060</p><p>Faksas  +370 706 64027</p><p>El. paÅ¡tas <a href="mailto:dalia.zabeleviciene@president.lt">dalia.zabeleviciene@president.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>NACIONALINIO SAUGUMO GRUPÄ</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Valdemaras Sarapinas</p><p class="vvv"><i>grupÄs vadovas</i><br>Respublikos PrezidentÄs vyriausiasis patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 117</p><p>Telefonas +37070664010</p><p>El. paÅ¡tas <a href="mailto:valdemaras.sarapinas@president.lt">valdemaras.sarapinas@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">KÄstutis Budrys</p><p class="vvv">Respublikos PrezidentÄs patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 115</p><p>Telefonas + 370 706 64067</p><p>El. paÅ¡tas <a href="mailto:kestutis.budrys@president.lt">kestutis.budrys@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Mindaugas  Silkauskas</p><p class="vvv">Respublikos PrezidentÄs patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 114</p><p>Telefonas  +370 706 64091</p><p>El. paÅ¡tas <a href="mailto:mindaugas.silkauskas@president.lt">mindaugas.silkauskas@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">AuÅ¡ra  SvilainienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 118</p><p>Telefonas + 370 706 64021</p><p>Faksas  + 370 706 64150</p><p>El. paÅ¡tas <a href="mailto:ausra.svilainiene@president.lt">ausra.svilainiene@president.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>SPAUDOS TARNYBA</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Modestas NaudÅ¾ius</p><p class="vvv"><i>tarnybos vadovas</i><br>Respublikos PrezidentÄs vyriausiasis patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 129</p><p>Telefonas + 370 706 64169</p><p>El. paÅ¡tas <a href="mailto:modestas.naudzius@president.lt">modestas.naudzius@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Å½ivilÄ  DidÅ¾galvienÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 127</p><p>Telefonas + 370 706 64019</p><p>El. paÅ¡tas <a href="mailto:zivile.didzgalviene@president.lt">zivile.didzgalviene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Jolanta GuÅ¾aitÄ Kvintus</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 122</p><p>Telefonas + 370 706 64156</p><p>El. paÅ¡tas <a href="mailto:jolanta.guzaite-kvintus@president.lt">jolanta.guzaite-kvintus@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">SkaistÄ PlauÅ¡inytÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 127</p><p>Telefonas +370 706 64090</p><p>El. paÅ¡tas <a href="mailto:skaiste.plausinyte@president.lt">skaiste.plausinyte@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Liudas ZakareviÄius</p><p class="vvv">Respublikos PrezidentÄs patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 127</p><p>Telefonas + 370 706 64128</p><p>El. paÅ¡tas <a href="mailto:liudas.zakarevicius@president.lt">liudas.zakarevicius@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Valentina ÄepleviÄiÅ«tÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 128</p><p>Telefonas +370 706 64129</p><p>El. paÅ¡tas <a href="mailto:valentina.cepleviciute@president.lt">valentina.cepleviciute@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Aleksandra Gudilkina </p><p class="vvv">KonsultantÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 122</p><p>Telefonas +370 706 64192</p><p>El. paÅ¡tas <a href="mailto:aleksandra.gudilkina@president.lt">aleksandra.gudilkina@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">DovilÄ DildaitÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 132</p><p>Telefonas + 370 706 64018</p><p>Faksas  + 370 706 64151</p><p>El. paÅ¡tas <a href="mailto:dovile.dildaite@president.lt">dovile.dildaite@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Raimonda MiglinaitÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 122</p><p>Telefonas +370 706 64039</p><p>El. paÅ¡tas <a href="mailto:raimonda.miglinaite@president.lt">raimonda.miglinaite@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Robertas DaÄkus</p><p class="vvv">Specialistas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 234</p><p>Telefonas +370 706 64035</p><p>El. paÅ¡tas <a href="mailto:robertas.dackus@president.lt">robertas.dackus@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Paulius Kalmantas</p><p class="vvv">Specialistas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 132</p><p>Telefonas +370 706 64138</p><p>El. paÅ¡tas <a href="mailto:paulius.kalmantas@president.lt">paulius.kalmantas@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Valentinas  Voitovas</p><p class="vvv">Specialistas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 234</p><p>Telefonas + 370 706 64100</p><p>El. paÅ¡tas <a href="mailto:valentinas.voitovas@president.lt">valentinas.voitovas@president.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>Å VIETIMO, MOKSLO IR KULTÅªROS GRUPÄ</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">RÅ«ta KaÄkutÄ</p><p class="vvv"><i>grupÄs vadovÄ</i><br>Respublikos PrezidentÄs vyriausioji patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 224</p><p>Telefonas + 370 706 64088</p><p>El. paÅ¡tas <a href="mailto:ruta.kackute@president.lt">ruta.kackute@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Marija DautartaitÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 222</p><p>Telefonas + 370 706 64077</p><p>El. paÅ¡tas <a href="mailto:marija.dautartaite@president.lt">marija.dautartaite@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Almeda KurienÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 217</p><p>Telefonas + 370 706 64070</p><p>El. paÅ¡tas <a href="mailto:almeda.kuriene@president.lt">almeda.kuriene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">SaulÄ MaÄiukaitÄ-Å½vinienÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 204</p><p>Telefonas +370 706 64131</p><p>El. paÅ¡tas <a href="mailto:saule.maciukaite-zviniene@president.lt">saule.maciukaite-zviniene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Dalia   GumbinienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 223</p><p>Telefonas + 370 706 64161</p><p>Faksas  + 370 706 64120</p><p>El. paÅ¡tas <a href="mailto:dalia.gumbiniene@president.lt">dalia.gumbiniene@president.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>TEISÄS GRUPÄ</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Rasa SvetikaitÄ</p><p class="vvv"><i>grupÄs vadovÄ</i><br>Respublikos PrezidentÄs vyriausioji patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 133</p><p>Telefonas + 370 706 64089</p><p>El. paÅ¡tas <a href="mailto:rasa.svetikaite@president.lt">rasa.svetikaite@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Laimis  GelaÅ¾ius</p><p class="vvv">Respublikos PrezidentÄs patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 125</p><p>Telefonas + 370 706 64072</p><p>El. paÅ¡tas <a href="mailto:laimis.gelazius@president.lt">laimis.gelazius@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Gabija GrigaitÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 225</p><p>Telefonas +370 706 64108</p><p>El. paÅ¡tas <a href="mailto:gabija.grigaite@president.lt">gabija.grigaite@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Å arÅ«nas Narbutas</p><p class="vvv">Respublikos PrezidentÄs patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 225</p><p>Telefonas +370 706 64055</p><p>El. paÅ¡tas <a href="mailto:sarunas.narbutas@president.lt">sarunas.narbutas@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">IndrÄ PukanasytÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 224</p><p>Telefonas + 370 706 64126</p><p>El. paÅ¡tas <a href="mailto:indre.pukanasyte@president.lt">indre.pukanasyte@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">SkirmantÄ  MakÅ«naitÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 135</p><p>Telefonas +370 706 64056</p><p>El. paÅ¡tas <a href="mailto:skirmante.makunaite@president.lt">skirmante.makunaite@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Tadas  Varapnickas</p><p class="vvv">Respublikos Prezidento patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 227</p><p>Telefonas +370 706 64079</p><p>El. paÅ¡tas <a href="mailto:tadas.varapnickas@president.lt">tadas.varapnickas@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">GiedrÄ IsokienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 134</p><p>Telefonas + 370 706 64124</p><p>Faksas  + 370 706 64096</p><p>El. paÅ¡tas <a href="mailto:giedre.isokiene@president.lt">giedre.isokiene@president.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>VIDAUS POLITIKOS GRUPÄ</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Virginija   BÅ«dienÄ</p><p class="vvv"><I>grupÄs vadovÄ</i><br>Respublikos PrezidentÄs vyriausioji patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 207</p><p>Telefonas + 370 706 64003</p><p>El. paÅ¡tas <a href="mailto:virginija.budiene@president.lt">virginija.budiene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Gaja BartuseviÄiÅ«tÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 214</p><p>Telefonas + 370 706 64031</p><p>El. paÅ¡tas <a href="mailto:gaja.bartuseviciute@president.lt">gaja.bartuseviciute@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Mindaugas  LingÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 216</p><p>Telefonas +370 706 64103</p><p>El. paÅ¡tas <a href="mailto:mindaugas.linge@president.lt">mindaugas.linge@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">UgnÄ  BartaÅ¡iÅ«tÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 213</p><p>Telefonas +370 706 64080</p><p>El. paÅ¡tas <a href="mailto:ugne.bartasiute@president.lt">ugne.bartasiute@president.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>UÅ½SIENIO POLITIKOS GRUPÄ</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Jovita NeliupÅ¡ienÄ</p><p class="vvv"><i>grupÄs vadovÄ</i><br>Respublikos PrezidentÄs vyriausioji patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 120</p><p>Telefonas +370 706 64054</p><p>El. paÅ¡tas <a href="mailto:jovita.neliupsiene@president.lt">jovita.neliupsiene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">DeimantÄ  KaÄinskienÄ</p><p class="vvv">Respublikos PrezidentÄs patarÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 104</p><p>Telefonas +370 706 64063</p><p>El. paÅ¡tas <a href="mailto:deimante.kacinskiene@president.lt">deimante.kacinskiene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Martynas  LukoÅ¡eviÄius</p><p class="vvv">Respublikos PrezidentÄs patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 104</p><p>Telefonas +370 706 64022</p><p>El. paÅ¡tas <a href="mailto:martynas.lukosevicius@president.lt">martynas.lukosevicius@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Renaldas  Vaisbrodas</p><p class="vvv">Respublikos Prezidento patarÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 104</p><p>Telefonas +370 706 64140</p><p>El. paÅ¡tas <a href="mailto:renaldas.vaisbrodas@president.lt">renaldas.vaisbrodas@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Dalia  KaralienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 121</p><p>Telefonas +370 706 64014</p><p>Faksas  +370 706 64042</p><p>El. paÅ¡tas <a href="mailto:dalia.karaliene@president.lt">dalia.karaliene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Andrius  Reznikovas</p><p class="vvv">Specialistas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 121</p><p>Telefonas +370 706 64064</p><p>El. paÅ¡tas <a href="mailto:andrius.reznikovas@president.lt">andrius.reznikovas@president.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>UÅ¾sienio reikalÅ³ ministerijos Valstybinio ir diplomatinio protokolo departamento Prezidento protokolo skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Donatas KuÅ¡lys</p><p class="vvv">Skyriaus vedÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 113</p><p>Telefonas +370 706 64012</p><p>El. paÅ¡tas <a href="mailto:donatas.kuslys@president.lt">donatas.kuslys@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">AgnietÄ PukaitÄ</p><p class="vvv">Antroji sekretorÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 133</p><p>Telefonas +370 706 64081</p><p>Faksas  +370 706 64149</p><p>El. paÅ¡tas <a href="mailto:agniete.pukaite@president.lt">agniete.pukaite@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Marius AtroÅ¡ka</p><p class="vvv">TreÄiasis sekretorius </p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 133</p><p>Telefonas +370 706 64005</p><p>El. paÅ¡tas <a href="mailto:marius.atroska@president.lt">marius.atroska@president.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+
+</div>
+<div>&nbsp;</div>
+<div><h5>Lietuvos Respublikos Prezidento kanceliarijos kancleris</h5></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Giedrius  Krasauskas</p><p class="vvv">Respublikos Prezidento kanceliarijos kancleris </p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 206</p><p>Telefonas +370 706 64024</p><p>Faksas  +370 706 64170</p><p>El. paÅ¡tas <a href="mailto:giedrius.krasauskas@prezidentas.lt">giedrius.krasauskas@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Julita  DudutienÄ</p><p class="vvv">Respublikos Prezidento kanceliarijos kanclerio asistentÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 205</p><p>Telefonas + 370 706 64025</p><p>Faksas  + 370 706 64170</p><p>El. paÅ¡tas <a href="mailto:julita.dudutiene@prezidentas.lt">julita.dudutiene@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Respublikos Prezidento kanceliarijos kanclerio biuras</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv"> </p><p class="vvv"><p align="center"><i>Lietuvos heraldikos klausimai</i></p></p></td><td valign="top" align="left" width="50%">
+</td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Edmundas Antanas  RimÅ¡a</p><p class="vvv">Vyriausiasis specialistas</p></td><td valign="top" align="left" width="50%">
+<p>Telefonas +370 699 11072</p><p>El. paÅ¡tas <a href="mailto:rimsa@istorija.lt">rimsa@istorija.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">AgnÄ  RailaitÄ - BardÄ</p><p class="vvv">SpecialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 213</p><p>Telefonas +370 706 64068</p><p>El. paÅ¡tas <a href="mailto:agne.railaite@prezidentas.lt">agne.railaite@prezidentas.lt</a></p><p><b>Darbo laikas:</b> <br/>TreÄiadieniais - 17.30 iki 19.30<br/>Ketvirtadienais - 8.00 iki 18.45<br/>Penktadieniais - 8.00 iki 16.45<br/>PietÅ³ pertrauka - 12.00 iki 12.45</p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv"> </p><p class="vvv"><p align="center"><i>MalonÄs klausimai</i></p></p></td><td valign="top" align="left" width="50%">
+</td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Rima  UlaseviÄienÄ </p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 215</p><p>Telefonas + 370 706 64053</p><p>El. paÅ¡tas <a href="mailto:rima.ulaseviciene@president.lt">rima.ulaseviciene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Laura  PranaitytÄ </p><p class="vvv">Vyresnioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 215</p><p>Telefonas + 370 706 64183</p><p>El. paÅ¡tas <a href="mailto:laura.pranaityte@president.lt">laura.pranaityte@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv"> </p><p class="vvv"><p align="center"><i>PilietybÄs klausimai</i></p></p></td><td valign="top" align="left" width="50%">
+</td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Rasa JablonskytÄ-BarbuÅ¡kienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 211</p><p>Telefonas + 370 706 64078</p><p>El. paÅ¡tas <a href="mailto:rasa.jablonskyte@president.lt">rasa.jablonskyte@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">AudronÄ  ÄerskytÄ</p><p class="vvv">Vyresnioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 214</p><p>Telefonas +370 706 61824</p><p>El. paÅ¡tas <a href="mailto:audrone.cerskyte@prezidentas.lt ">audrone.cerskyte@prezidentas.lt </a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+
+</div>
+<div>&nbsp;</div>
+<div><h6>AsmenÅ³ aptarnavimo skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Asta  BoguÅ¡ienÄ</p><p class="vvv">Skyriaus vedÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 108 </p><p>Telefonas +370 706 64059</p><p>Faksas  +370 706 64145</p><p>El. paÅ¡tas <a href="mailto:asta.bogusiene@prezidentas.lt">asta.bogusiene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Kristina  BukauskienÄ</p><p class="vvv">Vyresnioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 112</p><p>Telefonas +370 706 64154</p><p>Faksas  +370 706 64178 </p><p>El. paÅ¡tas <a href="mailto:kristina.bukauskiene@prezidentas.lt">kristina.bukauskiene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">AgnÄ  JeruÅ¡eviÄiÅ«tÄ</p><p class="vvv">Vyresnioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 112</p><p>Telefonas +370 706 61825</p><p>El. paÅ¡tas <a href="mailto:agne.jeruseviciute@prezidentas.lt">agne.jeruseviciute@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Aurelija TrepÅ¡ienÄ</p><p class="vvv">SpecialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 109</p><p>Telefonas +370 706 64057</p><p>El. paÅ¡tas <a href="mailto:aurelija.trepsiene@prezidentas.lt">aurelija.trepsiene@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>BendrÅ³jÅ³ reikalÅ³ skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Leopoldas Petrauskas</p><p class="vvv">Skyriaus vedÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 310</p><p>Telefonas +370 706 64049</p><p>Faksas  +370 706 64137</p><p>El. paÅ¡tas <a href="mailto:leopoldas.petrauskas@prezidentas.lt">leopoldas.petrauskas@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Jaroslavas  BogdzeviÄius</p><p class="vvv">Skyriaus vedÄjo pavaduotojas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 309</p><p>Telefonas +370 706 64033</p><p>Faksas  +370 706 64037</p><p>El. paÅ¡tas <a href="mailto:jaroslavas.bogdzevicius@prezidentas.lt">jaroslavas.bogdzevicius@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Diana  JureviÄienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 307</p><p>Telefonas +370 706 64085</p><p>Faksas  +370 706 64052</p><p>El. paÅ¡tas <a href="mailto:diana.jureviciene@prezidentas.lt">diana.jureviciene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Renatas   GudeliÅ«nas</p><p class="vvv">Vyriausiasis specialistas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 308</p><p>Telefonas +370 706 64111</p><p>Faksas  +370 706 64195</p><p>El. paÅ¡tas <a href="mailto:renatas.gudeliunas@prezidentas.lt">renatas.gudeliunas@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>DokumentÅ³ valdymo skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Raminta  VyÅ¡niauskienÄ</p><p class="vvv">Skyriaus vedÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 111 </p><p>Telefonas +370 706 61826</p><p>El. paÅ¡tas <a href="mailto:raminta.vysniauskiene@prezidentas.lt">raminta.vysniauskiene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Lina MasiulionienÄ </p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 107</p><p>Telefonas + 370 706 64 074</p><p>El. paÅ¡tas <a href="mailto:lina.masiulioniene@prezidentas.lt">lina.masiulioniene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Daina Julija LyderienÄ</p><p class="vvv">Vyresnioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 2-234</p><p>Telefonas +370 706 64093</p><p>El. paÅ¡tas <a href="mailto:daina.lyderiene@prezidentas.lt">daina.lyderiene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">JÅ«ra  TrinkÅ«nienÄ</p><p class="vvv">Vyresnioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 107 </p><p>Telefonas +370 706 64168</p><p>El. paÅ¡tas <a href="mailto:jura.trinkuniene@prezidentas.lt">jura.trinkuniene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Asta  MeÅ¡kÄnaitÄ</p><p class="vvv">SpecialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 113</p><p>Telefonas +370 706 64050</p><p>Faksas  +370 706 64145</p><p>El. paÅ¡tas <a href="mailto:asta.meskenaite@prezidentas.lt">asta.meskenaite@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Asta PesliokienÄ</p><p class="vvv">SpecialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 113</p><p>Telefonas +370 706 64134</p><p>El. paÅ¡tas <a href="mailto:asta.pesliokiene@prezidentas.lt">asta.pesliokiene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Virgina  StaseviÄienÄ</p><p class="vvv">SpecialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 347</p><p>Telefonas +370 706 64028</p><p>El. paÅ¡tas <a href="mailto:virgina.staseviciene@prezidentas.lt">virgina.staseviciene@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>FinansÅ³ skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Vitalija RancovienÄ</p><p class="vvv">Skyriaus vedÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 120</p><p>Telefonas +370 706 64026</p><p>Faksas  +370 706 64171</p><p>El. paÅ¡tas <a href="mailto:vitalija.rancoviene@prezidentas.lt">vitalija.rancoviene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">AngelÄ  AtkoÄiÅ«nienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 350</p><p>Telefonas +370 706 64029</p><p>El. paÅ¡tas <a href="mailto:angele.atkociuniene@prezidentas.lt">angele.atkociuniene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Jadvyga  JakÅ¡tienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 122</p><p>Telefonas +370 706 64046</p><p>El. paÅ¡tas <a href="mailto:jadvyga.jakstiene@prezidentas.lt">jadvyga.jakstiene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">JÅ«ratÄ  Å apokienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 121</p><p>Telefonas +370 706 64153</p><p>El. paÅ¡tas <a href="mailto:jurate.sapokiene@prezidentas.lt">jurate.sapokiene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">AnÅ¾elika  VaicekauskienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 204</p><p>Telefonas +370 706 64176</p><p>El. paÅ¡tas <a href="mailto:anzelika.vaicekauskiene@prezidentas.lt">anzelika.vaicekauskiene@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>Informacijos technologijÅ³ skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Audrius Baronas</p><p class="vvv">Skyriaus vedÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 354</p><p>Telefonas +370 706 64162</p><p>El. paÅ¡tas <a href="mailto:audrius.baronas@prezidentas.lt">audrius.baronas@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Alenas  Radvila</p><p class="vvv">Skyriaus vedÄjo pavaduotojas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 312 </p><p>Telefonas +370 706 64122</p><p>El. paÅ¡tas <a href="mailto:alenas.radvila@prezidentas.lt">alenas.radvila@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Vaidotas  Aleksa</p><p class="vvv">Vyriausiasis specialistas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 312 </p><p>Telefonas +370 706 64092</p><p>El. paÅ¡tas <a href="mailto:vaidotas.aleksa@prezidentas.lt">vaidotas.aleksa@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Linas  SinkeviÄius</p><p class="vvv">Vyriausiasis specialistas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 312</p><p>Telefonas +370 706 64142</p><p>El. paÅ¡tas <a href="mailto:linas.sinkevicius@prezidentas.lt">linas.sinkevicius@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Jonas  Å idlauskas</p><p class="vvv">Vyriausiasis specialistas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 312</p><p>Telefonas +370 706 64061</p><p>El. paÅ¡tas <a href="mailto:jonas.sidlauskas@prezidentas.lt">jonas.sidlauskas@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>Komunikacijos skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Izolda  MaliukeviÄienÄ</p><p class="vvv">Skyriaus vedÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas  349 </p><p>Telefonas +370 706 64191</p><p>Faksas  +370 706 64194</p><p>El. paÅ¡tas <a href="mailto:izolda.maliukeviciene@prezidentas.lt">izolda.maliukeviciene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">AuksÄ ÄepkauskaitÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 331</p><p>Telefonas +370 706 64073</p><p>Faksas  +370 706 64066</p><p>El. paÅ¡tas <a href="mailto:aukse.cepkauskaite@prezidentas.lt">aukse.cepkauskaite@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">JÅ«ratÄ  UÅ¾kurÄlytÄ</p><p class="vvv">BibliografÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 123</p><p>Telefonas +370 706 61822</p><p>El. paÅ¡tas <a href="mailto: jurate.uzkurelyte@prezidentas.lt"> jurate.uzkurelyte@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">RamunÄ GineitienÄ</p><p class="vvv">VertÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 334</p><p>Telefonas +370 706 64082</p><p>El. paÅ¡tas <a href="mailto:ramune.gineitiene@prezidentas.lt">ramune.gineitiene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Ana DailidÄnienÄ</p><p class="vvv">VertÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 334</p><p>Telefonas +370 706 64023</p><p>El. paÅ¡tas <a href="mailto:ana.dailideniene@prezidentas.lt">ana.dailideniene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Erika  SabaliauskaitÄ</p><p class="vvv">VertÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 334</p><p>Telefonas +370 706 64 198</p><p>El. paÅ¡tas <a href="mailto:erika.sabaliauskaite@prezidentas.lt">erika.sabaliauskaite@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>Personalo skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">GraÅ¾ina UrbonienÄ</p><p class="vvv">Skyriaus vedÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 118</p><p>Telefonas +370 706 64157</p><p>El. paÅ¡tas <a href="mailto:grazina.urboniene@president.lt">grazina.urboniene@president.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Rima MarÄiulionytÄ</p><p class="vvv">Skyriaus vedÄjos pavaduotoja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 324</p><p>Telefonas +370 706 64017</p><p>Faksas  +370 706 64177 </p><p>El. paÅ¡tas <a href="mailto:rima.marciulionyte@prezidentas.lt">rima.marciulionyte@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Raminta  ArboÄienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 119</p><p>Telefonas +370 706 64113</p><p>El. paÅ¡tas <a href="mailto:raminta.arbociene@prezidentas.lt">raminta.arbociene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Jurga  Å altienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 119 </p><p>Telefonas +370 706 64199</p><p>El. paÅ¡tas <a href="mailto:jurga.saltiene@prezidentas.lt">jurga.saltiene@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>Transporto skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Algimantas  Alekna</p><p class="vvv">Skyriaus vedÄjas</p></td><td valign="top" align="left" width="50%">
+<p>Telefonas +370 706 64186</p><p>Faksas  +370 5 272 6806</p><p>El. paÅ¡tas <a href="mailto:algimantas.alekna@prezidentas.lt">algimantas.alekna@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Gintaras  Bukauskis</p><p class="vvv">Vyriausiasis mechanikas</p></td><td valign="top" align="left" width="50%">
+<p>Telefonas +370 706 64184</p><p>Faksas  +370 706 64184</p><p>El. paÅ¡tas <a href="mailto:gintaras.bukauskis@prezidentas.lt">gintaras.bukauskis@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">SvajonÄ  VenckuvienÄ</p><p class="vvv">Vyriausioji dispeÄerÄ</p></td><td valign="top" align="left" width="50%">
+<p>Telefonas +370 706 64187</p><p>El. paÅ¡tas <a href="mailto:svajone.venckuviene@prezidentas.lt">svajone.venckuviene@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>Turto valdymo skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Rita  HoppenienÄ</p><p class="vvv">Skyriaus vedÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 354</p><p>Telefonas +370 706 64016</p><p>El. paÅ¡tas <a href="mailto: rita.hoppeniene@prezidentas.lt"> rita.hoppeniene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Dalia  VaikÅ¡norienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 332</p><p>Telefonas + 370 706 61820</p><p>El. paÅ¡tas <a href="mailto:dalia.vaiksnoriene@prezidentas.lt">dalia.vaiksnoriene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Ieva BudreviÄiÅ«tÄ</p><p class="vvv">SpecialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 307</p><p>Telefonas +370 706 61827</p><p>El. paÅ¡tas <a href="mailto:ieva.budreviciute@prezidentas.lt">ieva.budreviciute@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>VieÅ¡Å³jÅ³ pirkimÅ³ skyrius</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Vida  GreiÄiuvienÄ</p><p class="vvv">Skyriaus vedÄja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 210</p><p>Telefonas +370 706 64048</p><p>Faksas  +370 706 64165</p><p>El. paÅ¡tas <a href="mailto:vida.greiciuviene@prezidentas.lt">vida.greiciuviene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Aurika Grozova</p><p class="vvv">Skyriaus vedÄjos pavaduotoja</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 204</p><p>Telefonas +370 706 64015</p><p>El. paÅ¡tas <a href="mailto:aurika.grozova@prezidentas.lt">aurika.grozova@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">DalÄ JankauskienÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 212</p><p>Telefonas +370 706 64009</p><p>El. paÅ¡tas <a href="mailto:dale.jankauskiene@prezidentas.lt">dale.jankauskiene@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Å½ydrÅ«nÄ  Å vilpaitÄ</p><p class="vvv">Vyriausioji specialistÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 204</p><p>Telefonas +370 706 64047</p><p>El. paÅ¡tas <a href="mailto:zydrune.svilpaite@prezidentas.lt">zydrune.svilpaite@prezidentas.lt</a></p></td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Tadas Dudutis</p><p class="vvv">Vyresnysis specialistas</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 212</p><p>Telefonas +370 706 64075</p><p>Faksas  +370 706 64020 </p><p>El. paÅ¡tas <a href="mailto:tadas.dudutis@prezidentas.lt">tadas.dudutis@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h6>Vidaus audito tarnyba</h6></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">Katryna  ArmonienÄ</p><p class="vvv">Vidaus audito tarnybos vadovÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 213</p><p>Telefonas +370 706 64159</p><p>El. paÅ¡tas <a href="mailto:katryna.armoniene@prezidentas.lt">katryna.armoniene@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+<div>&nbsp;</div>
+<div><h5>KadencijÄ baigÄs Lietuvos Respublikos Prezidentas V. Adamkus</h5></div>
+<div class="one_dep">
+<table cellspacing="0" cellpadding="4" border="0"><tr>
+<td valign="top">
+</td></tr></table>
+<div class="separ">&nbsp;</div>
+
+<table class="contact_list" cellspacing="0" cellpadding="4" border="0" width="100%">
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">KadencijÄ baigÄs Lietuvos Respublikos Prezidentas Valdas Adamkus</p><p class="vvv"></p></td><td valign="top" align="left" width="50%">
+</td></tr>
+<tr><td colspan="2" valign="top" align="left" width="50%"><p class="vv">BoÅ¾ena  BagonaitienÄ</p><p class="vvv">Prezidento Valdo Adamkaus referentÄ</p></td><td valign="top" align="left" width="50%">
+<p>Kabinetas 219</p><p>Telefonas +370 706 64110</p><p>El. paÅ¡tas <a href="mailto:valdas.adamkus@prezidentas.lt">valdas.adamkus@prezidentas.lt</a></p></td></tr>
+</table>
+
+</div>
+</div>
+</div>					</td><!-- center end -->
+					<td id="rightSide">
+					<!-- Right begin-->
+					
+							<div class="block"><h3 class="img"><a style="display:block;" href="/lt/dbs_kontaktai.html">Kontaktai</a></h3></div><div class="block"><h3 class="img"><a style="display:block;" href="/lt/prezidento_institucija/prezidento_kanceliarija_760/asmenu_aptarnavimas.html">AsmenÅ³ aptarnavimas</a></h3></div><div class="block"><h3 class="img">LaiÅ¡kas Prezidentei</h3>
+<div class="rb_cont">
+
+
+<p><a href="/lt/laiskas_prezidentui2.html"><img src="/images/471/blockmail.gif" border="0" alt="" hspace="10" width="50" height="45" align="left"/>ParaÅ¡ykite laiÅ¡kÄ Lietuvos Respublikos Prezidentei</a></p>
+</div>
+</div><div class="block_notit"><div class="rb_cont">
+
+
+<hr/><p>Â </p><div align="center"><a href="http://www.facebook.com/D.Grybauskaite?v=wall" target="_blank"><img src="http://www.lrp.lt/images/28248/105219/fb ikona full2 grey.png" border="0" alt="" onmouseover="this.src='/images/28247/105286/fb ikona full2.png';" onmouseout="this.src='/images/28248/105219/fb ikona full2 grey.png';" width="40" height="54"/></a>Â <a href="https://twitter.com/Grybauskaite_LT" target="_blank"><img src="http://www.lrp.lt/images/28244/105215/twitter ikona grey.png" border="0" alt="" onmouseover="this.src='/images/28251/105223/twitter ikona.png';" onmouseout="this.src='/images/28244/105215/twitter ikona grey.png';" width="40" height="54"/></a>Â <a href="http://www.youtube.com/user/PresidentofLithuania"><img src="http://www.lrp.lt/images/28245/105216/yt ikona grey.png" border="0" alt="" onmouseover="this.src='/images/28252/105224/yt ikona.png';" onmouseout="this.src='/images/28245/105216/yt ikona grey.png';" width="40" height="54"/></a></div> <hr/>
+</div>
+</div><div class="block"><h3 class="img">DarbotvarkÄ</h3>
+<div class="rb_cont"><table cellspacing="0" cellpadding="1" border="0">
+<tr><td class="nowr"><select id="y1" class="year subscribe"><option label="2009" value="2009">2009</option>
+<option label="2010" value="2010">2010</option>
+<option label="2011" value="2011">2011</option>
+<option label="2012" value="2012">2012</option>
+<option label="2013" value="2013">2013</option>
+<option label="2014" value="2014" selected="selected">2014</option>
+</select> <select id="m1" onchange="fix_date(1);" class="month"><option label="sausio" value="1">sausio</option>
+<option label="vasario" value="2">vasario</option>
+<option label="kovo" value="3">kovo</option>
+<option label="balandÅ¾io" value="4">balandÅ¾io</option>
+<option label="geguÅ¾Äs" value="5">geguÅ¾Äs</option>
+<option label="birÅ¾elio" value="6">birÅ¾elio</option>
+<option label="liepos" value="7">liepos</option>
+<option label="rugpjÅ«Äio" value="8">rugpjÅ«Äio</option>
+<option label="rugsÄjo" value="9">rugsÄjo</option>
+<option label="spalio" value="10" selected="selected">spalio</option>
+<option label="lapkriÄio" value="11">lapkriÄio</option>
+<option label="gruodÅ¾io" value="12">gruodÅ¾io</option>
+</select> <select id="d1" onchange="fix_date(1);" class="day"><option label="1" value="1">1</option>
+<option label="2" value="2">2</option>
+<option label="3" value="3">3</option>
+<option label="4" value="4">4</option>
+<option label="5" value="5">5</option>
+<option label="6" value="6">6</option>
+<option label="7" value="7">7</option>
+<option label="8" value="8">8</option>
+<option label="9" value="9">9</option>
+<option label="10" value="10">10</option>
+<option label="11" value="11">11</option>
+<option label="12" value="12">12</option>
+<option label="13" value="13">13</option>
+<option label="14" value="14">14</option>
+<option label="15" value="15">15</option>
+<option label="16" value="16">16</option>
+<option label="17" value="17">17</option>
+<option label="18" value="18">18</option>
+<option label="19" value="19">19</option>
+<option label="20" value="20">20</option>
+<option label="21" value="21">21</option>
+<option label="22" value="22">22</option>
+<option label="23" value="23">23</option>
+<option label="24" value="24" selected="selected">24</option>
+<option label="25" value="25">25</option>
+<option label="26" value="26">26</option>
+<option label="27" value="27">27</option>
+<option label="28" value="28">28</option>
+<option label="29" value="29">29</option>
+<option label="30" value="30">30</option>
+<option label="31" value="31">31</option>
+</select></td><td><img src="/application/site/themes/default/img/search.gif" width="18" height="18" border="0" alt="IeÅ¡koti darbotvarkÄje" class="submitR"  onclick="submitBlockDate(1, '/lt/dbs_kontaktai.html?prerun=events;ns=events.plugin.blocks;module_node=249;y=__y__;m=__m__;d=__d__');" /></td></tr>
+</table>
+<div id="b_events1">
+<div class="b_event"><p class="etit">PrezidentÄ dalyvauja Europos VadovÅ³ Tarybos susitikime</p></div>
+<div class="b_event_more more" ><a href="/lt/prezidento_veikla/spaudos_centras/darbotvarke.html" class="more">&nbsp;daugiau&nbsp;</a></div></div></div>
+</div><div class="block_notit"><div class="rb_cont">
+
+
+<hr/>
+</div>
+</div><div class="block_notit"><div class="rb_cont">
+
+
+<a href="/lt/prezidento_institucijai_95.html"><img src="/images/39817/institucijai95_194x80.png" border="0" alt="" width="194" height="90"/></a>
+</div>
+</div><div class="block"><h3 class="img"><a style="display:block;" href="http://www.prezidentas.lt/lt/spaudos_centras_392/foto_galerija.html">NuotraukÅ³ galerija</a></h3></div><div class="block_notit"><div class="rb_cont"><table cellspacing="0" cellpadding="0" border="0" class="gallery_block" align="center">
+        <tr>
+                <td>
+                        <div class="img"><img src="http://president.lt/images/thumbnail/?id=44361;sid=175613;w=86;h=86" alt="PrezidentÄ dalyvauja Europos VadovÅ³ Tarybos susitikime Briuselyje (LR Prezidento kanceliarijos nuotraukos/ R. DaÄkus)" onclick="showPlayer(56805);"/></div>
+                        <div class="link">&nbsp;</div>
+                </td>
+                <td>
+                        <div class="img"><img src="http://president.lt/images/thumbnail/?id=44360;sid=175610;w=86;h=86" alt="PrezidentÄ dalyvauja Europos VadovÅ³ Tarybos susitikime Briuselyje (LR Prezidento kanceliarijos nuotraukos/ R. DaÄkus)" onclick="showPlayer(56801);"/></div>
+                        <div class="link"><a href="/lt/spaudos_centras_392/foto_galerija/2014-10-24.html">Ä® albumÄ&raquo;</a></div>
+                </td>
+        </tr>
+</table>
+</div>
+</div><div class="block"><h3 class="img"><a style="display:block;" href="/lt/prezidento_veikla/spaudos_centras/yt_video_galerija.html">Video galerija</a></h3></div><div class="block_notit"><div class="rb_cont"><div align="center">
+<div class="ytplayer_block">
+<a class="yblock" href="http://www.youtube-nocookie.com/embed/IR7FB-Ew-6k?rel=0&amp;autoplay=1" title="PrezidentÄ dalyvauja Europos VadovÅ³ Tarybos susitikime Briuselyje"><span class="yblockbtn">&nbsp;</span><img src="http://i2.ytimg.com/vi/IR7FB-Ew-6k/mqdefault.jpg" border="0" alt="" width="190"/></a>
+</div>
+<div class="ytplayer_description">PrezidentÄ dalyvauja Europos VadovÅ³ Tarybos susitikime Briuselyje</div></div>
+</div>
+</div><div class="block_notit"><div class="rb_cont">
+
+
+<hr/>
+</div>
+</div><div class="block_notit"><div class="rb_cont">
+
+
+<div align="center"><a href="http://www3.lrs.lt/home/Konstitucija/Konstitucija.htm" target="_blank"><img src="/images/9097/kons.jpg" border="0" alt="" width="194" height="92"/></a><br/></div>
+</div>
+</div><div class="block_notit"><div class="rb_cont">
+
+
+<hr/>
+</div>
+</div><div class="block_notit"><div class="rb_cont">
+
+
+<div style="text-align: center;"><a href="/lt/prezidento_institucija/lietuvos_valstybes_herbas_ir_veliavos_515.html"><img src="/images/37182/lvvg.png" border="0" alt="" width="180" height="127"/></a></div>
+</div>
+</div><div class="block_notit"><div class="rb_cont">
+
+
+<hr/>
+</div>
+</div><div class="block_extra"><div class="ex_cont">
+
+
+<a href="http://www.prezidentas.lt/lt/prezidento_institucija/prezidento_kanceliarija_760.html"><img src="/images/510/kanceliarija_adamk_4.jpg" border="0" alt="" width="194" height="76"/></a>
+</div>
+</div>														<p>&nbsp;</p>
+						
+					<!-- Right end-->
+					</td>
+				</tr>
+				<tr>
+					<td style="background-color:#e6e6e6;vertical-align:bottom;width:200px;">
+					<div id="statistics"><div style="background-image: url('/application/site/themes/default/img/menuSep2.gif'); background-position:center bottom;background-repeat:repeat-x;">LankytojÅ³ statistika</div>
+							<p>IÅ¡ viso apsilankÄ:&nbsp;67108482</p>
+							<p>Å iandien apsilankÄ:&nbsp;24824</p>
+							<p>Dabar narÅ¡o:&nbsp;969</p>
+							</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+	
+	<!-- body area end -->
+<div id="footArea">
+	<table class="wf" cellspacing="0" cellpadding="0" border="0">
+		<tr>
+		<td class="textArea">Â© 2011 Lietuvos Respublikos Prezidento kanceliarija, biudÅ¾etinÄ Ä¯staiga.<br/>S. Daukanto a. 3, LT-01122 Vilnius<br/>tel. 8 706 64 154, faks. 8 706 64 145, el. paÅ¡tas: <a href="mailto:kanceliarija@prezidentas.lt">kanceliarija@prezidentas.lt</a><br/>Duomenys kaupiami ir saugomi JuridiniÅ³ asmenÅ³ registre. Juridinio asmens kodas: 188609016</td>
+		<td class="solution">Sprendimas: <a target="_blank" href="http://www.freshmedia.lt"> Fresh media</a><br/>&nbsp;<br/>&nbsp;<br/><a href="mailto:webmaster_prezidentas@prezidentas.lt">PraÅ¡ome praneÅ¡ti apie netikslumus.</a></td>
+		</tr>
+	</table>
+</div>
+</div>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+try {
+_uacct = "UA-11014064-1";
+urchinTracker();
+} catch(err) {}</script>
+</body>
+</html>
