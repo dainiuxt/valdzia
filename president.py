@@ -1,23 +1,27 @@
 #scrap <p class="vv"> (Name) and <p class="vvv"> (position)
+import re
+import argparse
+#import sys
+#sys.setdefaultencoding('utf-8')
 from lxml import html
+from urllib2 import urlopen
 import requests
 import bs4
 from bs4 import BeautifulSoup
 
-president_data = {}
-president_url = 'http://president.lt/lt/dbs_kontaktai/printerlist.html'
-president_read = requests.get(president_url) #response
-president_soup = bs4.BeautifulSoup(president_read.text)
-president_data['Vardas'] = president_soup.select('p.vv')#.get.text()
-president_data['Pareigos'] = president_soup.select('p.vvv')#.get.text()
-#president_tree = html.fromstring(president_read.text)
-#president_names = president_tree.xpath('//p[@class="vv"]/text()')
-#president_position = president_tree.xpath('//p[@class="vvv"]/text()')
-#president_names.extend(president_position)
-print (president_data)
+pr_url = 'http://president.lt/lt/dbs_kontaktai/printerlist.html'
 
+def get_pr_contacts():
+	#pr_data = {}
+	pr_read = requests.get(pr_url)
+	pr_soup = bs4.BeautifulSoup(pr_read.text)
+	pr_data['Vardas'] = pr_soup.select('p.vv')[0].get_text()
+	pr_data['Pareigos'] = pr_soup.select('p.vvv')[0].get_text()
+
+print (pr_data)
 	
-#presidentf = open('president.txt', 'w')
-#presfile.encode('utf-8')
-#presidentf.write(presidentr.text)
-#presidentf.close
+#prf = open('president.txt', 'w')
+#prf.encode('utf-8')
+#prf.write(pr_data())
+#prf.close
+#print('president.txt')
