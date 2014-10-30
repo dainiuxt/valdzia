@@ -1,31 +1,25 @@
-# create virtual python3  environment:
-# source py3env/bin/activate
-
-import re
-import argparse
+#scrap <p class="vv"> (Name) and <p class="vvv"> (position)
+from lxml import html
 import requests
 import bs4
-from multiprocessing.pool import ThreadPool as Pool
-from time import sleep
+from time import sleep # be nice
 
-pr_url = 'http://president.lt/lt/dbs_kontaktai/printerlist.html'
+#get contacts page
+presidentr = requests.get('http://president.lt/lt/dbs_kontaktai/printerlist.html')
+presidenttree = html.fromstring(presidentr.text)
+pr_names = presidenttree.xpath('//p[@class="vv"]/text()')
+pr_position = presidenttree.xpath('//p[@class="vvv"]/text()')
+sleep(1)
 
-#get contacts data from president.lt
-def get_pr_contacts_data():
-	pr_data = {}
-	pr_response = requests.get(pr_url)
-	pr_soup = bs4.BeautifulSoup(pr_response.text)
-	pr_data['Vardas'] = pr_soup.selectAll('p.vv')[0].get_text()
-	pr_data['Pareigos'] = pr_soup.selectAll('p.vvv')[0].get_text()
-	return pr_data
-	sleep(1)
-	
-#print (pr_data)
-def show_pr_data():
-	results = get_pr_contacts_data
-	print (results)
-	print(u'Vardas, Pareigos')
-	print(u'{0},{1}'.format(results[i]['Vardas'], ', '.join(results[i]['Pareigos'])))
+def extract_pr_staff(pr_names, pr_position):
+	pr_staff = []
+	maxnum = len(pr_names)
+	for i in range(maxnum):
+		pr_staff.append(zip(pr_names[i], pr_position[i]))
+	return pr_staff
+	print(pr_staff)
 
 if __name__ == '__main__':
-    show_pr_data()
+    extract_pr_staff(pr_names, pr_position)
+#~ print (pr_names)
+#~ print (pr_position)
