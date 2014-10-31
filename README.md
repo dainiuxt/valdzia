@@ -4,7 +4,7 @@ Valdžia [Government]
 Intro
 ------
 
-This project is my start with Python. I have very few experience in programming and none with python at all. In my past I've touchet a little bit TurboPascal (at school, some 25 years ago) and recently I making data manipulation with CRAN-R.
+This project is my start with Python. I have very few experience in programming and none with python at all. In my past I've touchet a little bit TurboPascal (at school, some 25 years ago) and recently I making data manipulation with CRAN-R. Also I have some above basic experience with WordPress and PHP.
 
 Project
 --------
