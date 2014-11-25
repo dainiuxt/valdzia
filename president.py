@@ -1,5 +1,6 @@
 #scrap <p class="vv"> (Name) and <p class="vvv"> (position)
 from lxml import html
+import urllib
 import requests
 import bs4
 from time import sleep # be nice
