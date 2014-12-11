@@ -21,9 +21,9 @@ def extract_pr_staff():
 	print(len(pr_names))
 	max = len(pr_names)
 	for i in range(max):
-		return pr_staff.append(list(zip(pr_names[i], pr_position[i]))) 
+		return pr_staff.append(list(zip(pr_names[i], pr_position[i])))
 	return pr_staff
-	#~ 
+	#~
 extract_pr_staff()
 #~ if __name__ == '__main__':
     #~ extract_pr_staff(pr_names, pr_position)
